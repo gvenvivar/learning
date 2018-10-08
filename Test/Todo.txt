@@ -1,10 +1,5 @@
 Fixes
-  1. Help icon re-design and relocation.
-  2. Overlay Opacity 0.75
-  3. Target="_blank
-  4. Manifest icon and bg-color re-design.
-  5. Login modal on mobile.
-  6. Refocus the search field after clicking/selecting an item from the dropdown
+  1. Refocus the search field after clicking/selecting an item from the dropdown
 
 
 Potentially
@@ -20,3 +15,10 @@ Potentially
  2. Be able to click the item names leading to WowHead
  3. Custom item lists.
  4. Change Api logic keys
+
+ Done
+ 1. Help icon re-design and relocation.
+ 2. Overlay Opacity 0.75
+ 3. Target="_blank
+ 4. Manifest icon and bg-color re-design.
+ 5. Login modal on mobile.
