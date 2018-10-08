@@ -5,6 +5,7 @@ Fixes
   4. Manifest icon and bg-color re-design.
   5. Login modal on mobile.
   6. Refocus the search field after clicking/selecting an item from the dropdown
+  7. WTF is going on.
 
 
 Potentially
