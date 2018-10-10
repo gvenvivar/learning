@@ -1,10 +1,12 @@
 Update
   1.Update master while have branch
   2.Hotfix branch
+  1. Add branch test
+  2. Add one more commit to test after merge hotfix
 
 Fixes
   1. Refocus the search field after clicking/selecting an item from the dropdown
-
+  2.WTF is going on.
 
 Potentially
  1. Step by step tutorial (https://github.com/okgrow/react-native-copilot)
