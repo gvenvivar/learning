@@ -1,5 +1,6 @@
 Update
  1. Add branch test
+ 2. Add one more commit to test after merge hotfix
 Fixes
   1. Help icon re-design and relocation.
   2. Overlay Opacity 0.75
